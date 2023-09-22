@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "auth.ip.matcher.regex.regexp",
+      "type": "java.lang.String",
+      "description": "Description for auth.ip.matcher.regex.regexp."
+  }
+] }
